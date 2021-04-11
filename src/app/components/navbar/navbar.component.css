@@ -1,0 +1,15 @@
+.label-warning {
+  background-color: #000000;
+  color: black;
+  font-weight: bold;
+  padding: 3px;
+}
+#footer {
+  background: #3a3c55 !important;
+  
+bottom: 0;
+position: fixed;
+width: 1879px;
+height: 200px;
+
+}

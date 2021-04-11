@@ -1,0 +1,30 @@
+
+#footer {
+    background: #3a3c55 !important;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+  
+}
+#footer a {
+    color: #ff0aca;
+    text-decoration: none !important;
+    background-color: transparent;
+    -webkit-text-decoration-skip: objects;
+}
+#footer ul.social li{
+  position: relative;
+	padding-bottom: 20px ;
+  
+}
+#footer ul.social li a i {
+	font-size:30px;
+  color:#66c0bc;
+  
+}
+#footer ul.social li:hover a i {
+	font-size:30px;
+  color: #ffffff;;
+}
